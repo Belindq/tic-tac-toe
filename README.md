@@ -1,7 +1,6 @@
 # tic-tac-toe
 This is a tic tac toe game built using Java in BlueJ version 3.1.7 (Java version 1.8.0_66) and contains a local multiplayer mode, single player mode with two difficulties, and a shop.
 (Made for ICS3U final project)
-<img src="[https://github.com/Belindq/tic-tac-toe/blob/main/menu2.png]" width="300"/>
 ![menu](https://github.com/Belindq/tic-tac-toe/blob/main/menu2.png)
 ## Single player difficulties
 Normal: Random set of if-statements dictating the bot's move.
